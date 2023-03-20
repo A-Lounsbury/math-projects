@@ -7,3 +7,21 @@
 [submodule "inventory-sequence"]
 	path = inventory-sequence
 	url = https://github.com/a676-code/inventory-sequence.git
+[submodule "dungeon-numbers"]
+	path = dungeon-numbers
+	url = https://github.com/a676-code/dungeon-numbers.git
+[submodule "van-eck-sequence"]
+	path = van-eck-sequence
+	url = https://github.com/a676-code/van-eck-sequence.git
+[submodule "prime-constant"]
+	path = prime-constant
+	url = https://github.com/a676-code/prime-constant.git
+[submodule "prime_guesser"]
+	path = prime_guesser
+	url = https://github.com/a676-code/prime_guesser.git
+[submodule "gen-cc"]
+	path = gen-cc
+	url = https://github.com/a676-code/gen-cc.git
+[submodule "sandpiles"]
+	path = sandpiles
+	url = https://github.com/a676-code/sandpiles.git
