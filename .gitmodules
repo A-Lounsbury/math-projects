@@ -1,3 +1,9 @@
 [submodule "russian-multiplication"]
 	path = russian-multiplication
 	url = https://github.com/a676-code/russian-multiplication.git
+[submodule "levine-sequence"]
+	path = levine-sequence
+	url = https://github.com/a676-code/levine-sequence.git
+[submodule "inventory-sequence"]
+	path = inventory-sequence
+	url = https://github.com/a676-code/inventory-sequence.git
