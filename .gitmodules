@@ -25,3 +25,9 @@
 [submodule "sandpiles"]
 	path = sandpiles
 	url = https://github.com/a676-code/sandpiles.git
+[submodule "polynomial"]
+	path = polynomial
+	url = https://github.com/a676-code/polynomial.git
+[submodule "gt"]
+	path = gt
+	url = https://github.com/a676-code/gt.git
