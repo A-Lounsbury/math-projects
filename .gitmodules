@@ -31,3 +31,6 @@
 [submodule "gt"]
 	path = gt
 	url = https://github.com/a676-code/gt.git
+[submodule "recaman-sequence"]
+	path = recaman-sequence
+	url = https://github.com/a676-code/recaman-sequence.git
