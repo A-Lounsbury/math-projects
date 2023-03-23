@@ -34,3 +34,6 @@
 [submodule "recaman-sequence"]
 	path = recaman-sequence
 	url = https://github.com/a676-code/recaman-sequence.git
+[submodule "kolakoski-sequence"]
+	path = kolakoski-sequence
+	url = https://github.com/a676-code/kolakoski-sequence.git
