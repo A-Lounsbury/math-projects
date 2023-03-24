@@ -37,3 +37,6 @@
 [submodule "kolakoski-sequence"]
 	path = kolakoski-sequence
 	url = https://github.com/a676-code/kolakoski-sequence.git
+[submodule "fly-straight-sequence"]
+	path = fly-straight-sequence
+	url = https://github.com/a676-code/fly-straight-sequence.git
