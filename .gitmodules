@@ -40,3 +40,6 @@
 [submodule "fly-straight-sequence"]
 	path = fly-straight-sequence
 	url = https://github.com/a676-code/fly-straight-sequence.git
+[submodule "prime-reversal-sequence"]
+	path = prime-reversal-sequence
+	url = https://github.com/a676-code/prime-reversal-sequence.git
