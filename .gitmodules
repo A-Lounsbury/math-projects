@@ -46,3 +46,6 @@
 [submodule "the-yellowstone-permutation"]
 	path = the-yellowstone-permutation
 	url = https://github.com/a676-code/the-yellowstone-permutation.git
+[submodule "wisteria-sequence"]
+	path = wisteria-sequence
+	url = https://github.com/a676-code/wisteria-sequence.git
