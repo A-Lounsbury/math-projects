@@ -43,3 +43,6 @@
 [submodule "prime-reversal-sequence"]
 	path = prime-reversal-sequence
 	url = https://github.com/a676-code/prime-reversal-sequence.git
+[submodule "the-yellowstone-permutation"]
+	path = the-yellowstone-permutation
+	url = https://github.com/a676-code/the-yellowstone-permutation.git
