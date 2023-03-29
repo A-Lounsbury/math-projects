@@ -55,3 +55,6 @@
 [submodule "chaotic-cousin-sequence"]
 	path = chaotic-cousin-sequence
 	url = https://github.com/a676-code/chaotic-cousin-sequence.git
+[submodule "flattened-sierpinski"]
+	path = flattened-sierpinski
+	url = https://github.com/a676-code/flattened-sierpinski.git
