@@ -49,3 +49,9 @@
 [submodule "wisteria-sequence"]
 	path = wisteria-sequence
 	url = https://github.com/a676-code/wisteria-sequence.git
+[submodule "hofstadters-sequence"]
+	path = hofstadters-sequence
+	url = https://github.com/a676-code/hofstadters-sequence.git
+[submodule "chaotic-cousin-sequence"]
+	path = chaotic-cousin-sequence
+	url = https://github.com/a676-code/chaotic-cousin-sequence.git
