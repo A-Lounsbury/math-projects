@@ -58,3 +58,6 @@
 [submodule "flattened-sierpinski"]
 	path = flattened-sierpinski
 	url = https://github.com/a676-code/flattened-sierpinski.git
+[submodule "sequences"]
+	path = sequences
+	url = https://github.com/a676-code/sequences.git
